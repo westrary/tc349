@@ -1,0 +1,13 @@
+//Visuals
+Visually, the site is pretty to look at. There aren't links and objects scattered around the page that make it difficult to figure out what is going on. It has a few simple colors that don't hurt your eyes. The simplicity of the site is what makes it look good.
+
+//Design/Layout
+I like the design choice of putting recent articles on the Home page, as opposed to putting the About information on this page. This makes it easy for regular users of the site to immediately read the newest article. The Home page also has graphics for some of the articles, which make it look less boring. The About Page really does it's job for showing who this guy is, and what he is all about. The Articles page is set up well in order for the user to find past articles more easily. The only issue I have is that the organization of the articles is confusing. It seems that each column is a different year, but I'm not exactly sure. The only thing I have to say about the Portfolio Page is, hopefully he gets his new portfolio up as soon as he can, because that would make the website more complete. 
+
+//Ease of Use
+The Website is very easy to use, and it is generally not confusing what something is or how to get somewhere. The simple navigation bar at the top makes it easy to know where you are and how to get to another location on the site.
+
+//Problems/what could be done better
+When one of the navigation bar links is clicked, a new page is loaded, and as this is happening, the navigation bar text is small for a split second, and then jumps into place. Other things on the pages are a bit jittery for an instant when a page is loaded. It's a small issue, but still an issue that should be resolved (maybe it wouldn't do it in other browsers?).
+
+I don't know how I feel about the background of the bottom of the page being black. It works, but I think some sort of divider (dividing the body from the footer) would have sufficed. It's such a stark contrast, which draws too much attention to itself.
