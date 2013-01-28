@@ -4,3 +4,8 @@ h1
 	letter-spacing: 0.6em;
 	color: #00f211;
 }
+
+p
+{
+	text-indent: 2em;
+}

@@ -1,4 +1,4 @@
 function hello()
 {
-	alert("Hello, world!");
+	alert("You're using " + navigator.appName + ".");
 }
