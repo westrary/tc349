@@ -1,0 +1,24 @@
+.navUL
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navLI
+{
+	float: left;
+	display: block;
+	width: 100px;
+}
+
+img
+{
+	border: 5px solid black;
+	margin: 10px 0;
+}
+
+p
+{
+	margin: 10px 0;
+}
