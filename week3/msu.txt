@@ -1,0 +1,5 @@
+MSU.edu Review
+
+Overall, the site looks very nice. The logo and "Michigan State University" go very well with the top banner and the navigation bar. I have two problems with the navigation bar, though. First, I don't completely like the drop down menus. For example, if I hover over the "About" link, a drop down menu appears. The "About" page is different from all the pages in the drop down menu, but some people might not realize that and therefore never arrive at the "About" page. The other problem is that when you hover over each link of the navigation menu, a little box pops up that says the exact same thing as the link. It's unnecessary to have those boxes pop up when they give you no new information.
+
+The bottom of the homepage seems a bit cluttered. To improve it, I would maybe remove one of the rows of items to make everything more readable and less cramped. Also, The very bottom of the page seems quickly put together. There is a bunch of white space in the bottom left corner of the rectangular box, which is an eyesore. 
