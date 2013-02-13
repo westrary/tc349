@@ -1,0 +1,5 @@
+Etsy.com
+
+The organization of the site is simple and easy to navigate. The horizontal bar on top of the page is not too complex, with large buttons so you know how to find the most important things. The colors of the site are light, soft, and nice.
+
+The only problem I have with the homepage is the off-centeredness of the body of content on the page. It is fine that it is off-centered, except for the fact that the vertical navigation bar on the left doesn't go all the way down to the bottom of the page. Or, this navigation bar should at least go down to where the main body content ends, and then the footer can remain how it is. It looks fine until you get to the bottom of the page, and then the page looks lop-sided.
