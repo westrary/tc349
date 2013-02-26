@@ -1,0 +1,8 @@
+Heroku.com
+As for the layout of the site and how it looks, it is beautiful. I can't find much I dislike about how it looks when I scroll around the page. The colors go well together and the layout looks nice. The only thing that looks slightly odd is the "How it Works" and "Signup" buttons in the middle of the page. Mostly the "Signup" button looks out of place. Maybe I don't like the arrow shape of it, especially relative to where it is on the page. Maybe the "Signup" button should be on the top of the page, and that would work better. Also, I think there needs to be a bit more space between these buttons and the section above it.
+
+Now that I think of it, I think the "How it Works" button should be bigger and more incorporated into the other sections of the page. It looks like it's just floating out in the middle of nowhere. It should be easy to spot, but should look like it belongs somewhere, as it should probably belong to the section above it.
+
+
+PERSONAL SITE
+For my personal site, I chose the double column layout. I chose this layout mostly because I wanted to test what it would look like with a vertical side bar. This way, I could use my original implementation for the sidebar in the footer of the page instead.
