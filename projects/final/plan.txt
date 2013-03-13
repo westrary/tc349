@@ -1,0 +1,22 @@
+Site map
+
+Header
+	With Ryan Westra Logo
+
+Home
+About
+	About
+	Interests
+	History of me
+	Purpose in Life
+Professional
+	Generic Professional about
+	A few samples
+	Link to Portfolio
+	Linkedin
+Blog
+Contact
+Footer
+	Facebook
+	Twitter
+	Other?
