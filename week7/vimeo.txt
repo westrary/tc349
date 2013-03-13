@@ -1,0 +1,6 @@
+Vimeo.com
+
+Don't get me wrong, the site looks good, but there is too much noise to be able to understand what is going on quickly. There are too many transitions between styles and colors as you scroll down the page. Your eyes quickly move to the large objects on the page. The top navigation bar isn't highlighted enough and is just lost in the background. Also, about the top navigation bar: some of the links have drop down menus and some don't. I think it's kind of annoying when you don't know which ones are going to have drop down menus.
+
+Like I said, the site is aesthetically pleasing. The problem is that the site isn't simple enough. There is too much contrast between sections that doesn't make sense. It should all feel like one fluid piece.
+
