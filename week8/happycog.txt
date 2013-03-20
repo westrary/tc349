@@ -1,0 +1,5 @@
+Happycog.com
+
+The top banner of the site is effective because of its simple look and feel. Also, it conveys the quick message of who they are how you can get started with their services. The navigation bar at the top looks nice, except for the fact that when the browser window is full size (at least on my computer), there is a lot of extra space on each side of the bar. It makes the page look stretched. It would maybe work better if the main content of the page was more defined into a box, and then the navigation bar could be contained at the top of the box, but not extending outside of the box to the left or right. The bar does look nice when you size the page down though.
+
+I don't really have any complaints about the rest of the site. It's not confusing, which can sometimes happen if there are too many things.
