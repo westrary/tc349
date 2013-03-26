@@ -1,0 +1,5 @@
+UnitedPixelWorkers.com
+
+There is too much happening on the homepage. I understand that they are trying to sell me something, but the homepage needs to simpler. Also, the Twitter box, origin story box, etc. are too similar to the other boxes on the page, so they don't stand out. Without closer examination, I might just think those boxes are just like all the other ones. Overall, what I'm trying to say is that the page seems very random, and the main content needs to be organized into sections, so users can distinguish between items.
+
+I do like how the page changes if the browser window size changes. I don't like the animation to get to that point, how everything flies to where it's supposed to be. I think just going into position instantly would suffice, so we don't have to wait for anything. The header and footer of the page are fine, but they would work better if the entire page was more organized.
