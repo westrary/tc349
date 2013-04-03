@@ -1,0 +1,5 @@
+m.msu.edu
+
+The site serves its purpose by making msu.edu simpler on a mobile device. There are only a few items on the page, so you can quickly find what you want. The icons are large enough in order to effectively tap on a touch screen. It also has the capability of customization, which is a plus if you want to remove icons that you won't ever use.
+
+The only problem I see is the extreme simplicity of it. It is so simple that it's boring. It contains a header, a search box, some green icons, and some text for a footer. All the icons are green. Although it serves its purpose, it looks dull and uninteresting.
