@@ -1,0 +1,7 @@
+m.facebook.com
+
+What's the first thing I want to do when I go to Facebook.com? Log in and check my Facebook page. The mobile site caters to this desire perfectly by making the ability to login the first thing you see. All you really need on the first page is the ability to log in or create a new account, in order to quickly check what you need.
+
+Once I log in, the news feed pops up, which is useful for seeing what's going on with your friends. The most important thing people want to look at is notifications, and that menu is right on top of the page, as well as friend requests and messages. Pretty much everything else you would want to do is in the top left corner, which pulls out a big menu when you click on it. 
+
+Overall, the user experience is great for Facebook mobile. The content is formatted to fit  to the screen size of a mobile device. Everything is simplified, so you are only looking at a few things at once. You see one thing at a time, the thing that you are looking at and want to be looking at. One thing I might change if it were up to me is the top blue bar. When you scroll down the page, it would be nice if the blue bar would come along with the scrolling, always staying at the top of the page. This is important so you are always aware of new notifications/friend requests in real time. Because as it is right now, if you decide to quit looking at the news feed and put your phone away, you might not realize something new and important just happened. 
