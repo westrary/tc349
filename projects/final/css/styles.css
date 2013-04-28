@@ -1,49 +1,58 @@
 h1
 {
 	margin: 0;
+	margin-left: 280px;
 	padding: 0px 0px 10px 0px;
-	color: #31312e;
+	color: #123155;
+}
+
+h2
+{
+	margin: 0;
+	padding: 0px 0px 0px 0px;
+	color: #123155;
 }
 
 .links
 {
-	color: #31312e;
+	color: #123155;
 }
 
 .nav
 {
 	text-decoration: none;
-	color: #171715;
+	color: #0B1F36;
 }
 
 section
 {
 	float: left;
 	width: 600px;
+	padding: 20px 20px 0px 20px;
 }
 
 aside
 {
 	float: left;
-	width: 190px;
-	height: 455px;
-	border: 5px solid #31312e;
-	background: #90919e;
+	width: 139px;
+	height: 425px;
+	border-left: 1px solid #123155;
+	background: #395B83;
+	padding: 10px;
 }
 
 body
 {
-	background: #221f1f;
-	font-family: "Helvetica", sans-serif;
+	background: #E4C696;
+	font-family: "Trebuchet MS", sans-serif;
 }
 
 .container
 {
 	margin: 0 auto;
 	width: 800px;
-	background: #b8b9c8;
-	border: 5px solid #31312e;
-	padding: 15px;
+	background: #85A0C1;
+	border: 1px solid #123155;
 	margin-top: 10px;
 }
 
@@ -63,42 +72,38 @@ footer
 .navLI
 {
 	width: 70px;
-	border: 5px solid #31312e;
-	margin: 10px 0px 10px 50px;
+	margin: 10px 0px 10px 20px;
 	padding: 2px;
-	background: #64646E;
 }
 
 img
 {
-	border: 5px solid #31312e;
+	border: 1px solid #123155;
 	margin: 10px 0;
+	float: left;
+	margin-right: 20px;
 }
 
 p
 {
 	margin: 10px 0px;
-	padding-right: 10px;
-	color: #31312e;
+	color: #123155;
 }
 
 .top
 {
-	margin: 0 auto;
-	width: 800px;
-	border: 5px solid #31312e;
-	background: #b8b9c8;
-	padding: 15px;
+	width: 770px;
+	border-bottom: 1px solid #123155;
+	background: #6F94C1;
+	padding: 15px 15px 5px 15px;
 }
 
 .bottom
 {
-	margin: 0 auto;
-	margin-top: 10px;
 	width: 800px;
-	background: #90919e;;
-	border: 5px solid #31312e;
-	padding: 15px;
+	background: #384C62;
+	border-top: 1px solid #123155;
+	padding: 5px 0px 20px 0px;
 }
 
 .bottUL
@@ -113,14 +118,31 @@ p
 	float: left;
 	display: block;
 	width: 75px;
-	border: 5px solid #31312e;
-	margin: 0px 5px 0px 0px;
-	padding: 2px;
-	background: #64646E;
+	margin: 0px 25px 0px 0px;
+	padding: 0px;
 }
 
 .sec2
 {
-	margin-left: 210px;
+	margin-left: 250px;
 }
 
+#bot1
+{
+	text-decoration: none;
+	color: #0B1F36;
+}
+
+#bot2
+{
+	text-decoration: none;
+	color: #0B1F36;
+	margin-left: 10px;
+}
+
+#bot3
+{
+	text-decoration: none;
+	color: #0B1F36;
+	margin-left: 6px;
+}
