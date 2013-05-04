@@ -1,9 +1,47 @@
 h1
 {
 	margin: 0;
-	margin-left: 280px;
 	padding: 0px 0px 10px 0px;
 	color: #123155;
+	font-weight: normal;
+	font-size: 230%;
+}
+
+h3
+{
+	margin: 0;
+	padding: 0px 0px 10px 0px;
+	color: #123155;
+	font-weight: normal;
+	font-size: 120%;
+}
+
+h4
+{
+	margin: 0;
+	padding: 0px 0px 10px 0px;
+	color: #123155;
+	font-weight: normal;
+	font-size: 100%;
+}
+
+.logo
+{
+	background: url(logo_v4.png) no-repeat;
+	text-indent: -9000px;
+	width: 68px;
+	height: 61px;
+}
+
+.left_top
+{
+	width: 700px;
+	float: left;
+}
+
+.right_top
+{
+	float: left;
 }
 
 h2
@@ -11,6 +49,7 @@ h2
 	margin: 0;
 	padding: 0px 0px 0px 0px;
 	color: #123155;
+	font-weight: normal;
 }
 
 .links
@@ -35,7 +74,7 @@ aside
 {
 	float: left;
 	width: 139px;
-	height: 425px;
+	height: 700px;
 	border-left: 1px solid #123155;
 	background: #395B83;
 	padding: 10px;
@@ -45,6 +84,7 @@ body
 {
 	background: #E4C696;
 	font-family: "Trebuchet MS", sans-serif;
+	font-size: 95%;
 }
 
 .container
@@ -76,12 +116,17 @@ footer
 	padding: 2px;
 }
 
-img
+.img_float
 {
 	border: 1px solid #123155;
 	margin: 10px 0;
 	float: left;
 	margin-right: 20px;
+}
+
+.imgs
+{
+	border: 1px solid #123155;
 }
 
 p
@@ -95,7 +140,7 @@ p
 	width: 770px;
 	border-bottom: 1px solid #123155;
 	background: #6F94C1;
-	padding: 15px 15px 5px 15px;
+	padding: 17px 15px 0px 15px;
 }
 
 .bottom
@@ -127,22 +172,32 @@ p
 	margin-left: 250px;
 }
 
-#bot1
+.bot1
 {
 	text-decoration: none;
 	color: #0B1F36;
 }
 
-#bot2
+.bot2
 {
 	text-decoration: none;
 	color: #0B1F36;
 	margin-left: 10px;
 }
 
-#bot3
+.bot3
 {
 	text-decoration: none;
 	color: #0B1F36;
 	margin-left: 6px;
+}
+
+
+@media (max-width: 320px)
+{
+	.container
+	{
+		width: 800px;
+		margin: 0;
+	}
 }
